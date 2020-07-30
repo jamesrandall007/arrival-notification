@@ -1,0 +1,2 @@
+# arrival-notification
+Tool to announce notification of patient in parking lot. Smaller clinics don't have the resourses to dedicate a single point of contact at clinic entrances. This is a universal method that provides several sources of input and several sources of output.  Specific need will be 2020-2021 flu season and immunizing patients without them entering clinc - thereby maximizing social distancing.
